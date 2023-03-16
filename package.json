@@ -1,0 +1,10 @@
+{
+    "name": "semantic-release-demo",
+    "version": "0.1.0",
+    "description": "",
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "semantic-release": "^20.1.1"
+    }
+}
