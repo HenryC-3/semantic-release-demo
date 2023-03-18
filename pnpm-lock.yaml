@@ -1,9 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
+  cz-git: ^1.6.0
   semantic-release: ^20.1.1
 
 devDependencies:
+  cz-git: 1.6.0
   semantic-release: 20.1.1
 
 packages:
@@ -597,6 +599,10 @@ packages:
   /crypto-random-string/2.0.0:
     resolution: {integrity: sha512-v1plID3y9r/lPhviJ1wrXpLeyUIGAZ2SHNYTEapm7/8A9nLPoyvVp3RK/EPFqn5kEznyWgYZNsRtYYIWbuG8KA==}
     engines: {node: '>=8'}
+    dev: true
+
+  /cz-git/1.6.0:
+    resolution: {integrity: sha512-eOGpDlYtY9qcJ+PC9Rg+Dk0aDrk6azkOOU5z52MJzKm11mtIMQIzqCtvsM7fHYschiQ0NCcrg5pNr9JaxtVA1A==}
     dev: true
 
   /dateformat/3.0.3:

@@ -4,7 +4,13 @@
     "description": "",
     "author": "",
     "license": "ISC",
+    "config": {
+        "commitizen": {
+            "path": "node_modules/cz-git"
+        }
+    },
     "devDependencies": {
+        "cz-git": "^1.6.0",
         "semantic-release": "^20.1.1"
     }
 }
