@@ -1,0 +1,8 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [".releaserc"],
+            "url": "https://json.schemastore.org/semantic-release.json"
+        }
+    ]
+}
